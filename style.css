@@ -8,7 +8,7 @@ General Reset
 }
 
 body {
-  background: linear-gradient(135deg,#667eea, #764ba2);
+  background: linear-gradient(red, blue);
   min-height: 100vh;
   display:flex;
   flex-direction: column;
